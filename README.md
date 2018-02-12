@@ -1,27 +1,26 @@
-# CloudFileViewer
+# ANGULAR 4 BOILERPLATE
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+This project is a bolerplate for angular projects
 
-## Development server
+## Include
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Angular app.
+2. [ngrx](https://github.com/ngrx).
+3. [semantic ui](https://edcarroll.github.io/ng2-semantic-ui/#/modules/search).
+4. Internationalization example [ngx-translate](https://github.com/ngx-translate/core). 
 
-## Code scaffolding
+## Use 
+ 
+1. npm install
+2. ng serve.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Require
 
-## Build
+* [node 6.9.X](https://nodejs.org/es/).
+* [npm 3.X.X](https://www.npmjs.com/) or higher.
+* [@angular/cli 1.4.9](https://github.com/angular/angular-cli) or higher.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+#### Enjoy it
 
-## Running unit tests
+###### Created by [Villapilla](https://github.com/villapilla)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
